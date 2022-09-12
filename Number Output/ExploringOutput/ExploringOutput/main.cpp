@@ -1,7 +1,9 @@
 /*
  Owen Neros
  C++ Fall 2022
- Due:
+ Due: Sep 14, 2022
+ Lab 2 Exploring Output
+ Portraying my schedule in an organized manner while attempting to not have to type the same word over again. Also showing skills by creating a checkerboard design.
  */
 
 #include <iostream>
